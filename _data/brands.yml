@@ -7,15 +7,15 @@ items:
     colour: 00249D
     image: /images/upload/money-white.png
     link: https://www.moneysos.co.uk
+  - title: Quote
+    colour: 110133
+    image: /images/upload/quote.png
+    link: https://www.moneysos.co.uk
   - title: Claims
     colour: fff
     image: /images/spinner.png
     link: https://www.moneysos.co.uk
   - title: Home
-    colour: fff
-    image: /images/spinner.png
-    link: https://www.moneysos.co.uk
-  - title: Training
     colour: fff
     image: /images/spinner.png
     link: https://www.moneysos.co.uk
