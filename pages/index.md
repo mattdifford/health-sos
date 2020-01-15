@@ -5,20 +5,23 @@ reference: Home
 section: Home
 description: Meta description goes here
 permalink: /
-header_image: /images/upload/phone-hand.png
+header_image: /images/upload/home-header.png
 header_content: >-
 
-  # Money made simple.
+  # Health made simple.
 
   
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+
+
+  [Get started](/tools)
 strip_1:
-  image: /images/upload/flight-comp-header.png
+  image: /images/upload/containers.png
   image_position: right
   text: >-
-    ### About moneySOS
+    ### About healthSOS
 
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
@@ -30,7 +33,7 @@ strip_1:
 
     [Sign up here](/)
 strip_2:
-  image: /images/upload/claims-header.png
+  image: /images/upload/laptop.png
   image_position: left
   text: >-
     ### Get started now
@@ -45,10 +48,10 @@ strip_2:
 
     [Get started](/tools)
 strip_3:
-  image: /images/upload/5-stars.png
+  image: /images/upload/medical-box.png
   image_position: right
   text: >-
-    ### Why Money SOS?
+    ### About healthSOS
 
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
@@ -60,10 +63,10 @@ strip_3:
 
     [Sign up here](/)
 strip_4:
-  image: /images/upload/flight-comp-header.png
+  image: /images/upload/laptop.png
   image_position: left
   text: >-
-    ### Join lifeSOS
+    ### About lifeSOS
 
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
@@ -75,4 +78,3 @@ strip_4:
 
     [Sign up here](/)
 ---
-

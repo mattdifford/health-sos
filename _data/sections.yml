@@ -1,52 +1,38 @@
 items:
-  - title: Mortgages
-    colour: 47b2c6
-    image: /images/upload/mortgages.png
-    header_image: /images/upload/mortgages-header.png
-    link: /mortgages
-  - title: Banking
-    colour: 2c7973
-    image: /images/upload/banks.png
-    header_image: /images/upload/banks-header.png
-    link: /banking
-  - title: Pensions
-    colour: 4a48a3
-    image: /images/upload/pensions.png
-    header_image: /images/upload/pensions-header.png
-    link: /pensions
-  - title: Utilities
-    colour: 12ba99
-    image: /images/upload/utilities.png
-    header_image: /images/upload/utilities-header.png
-    link: /utilities
-  - title: Claims
-    colour: 6cb3e1
-    image: /images/upload/claims.png
-    header_image: /images/upload/claims-header.png
-    link: /claims
+  - title: Men's health & fitness
+    colour: 59D4E8
+    image: /images/upload/men-positioned.png
+    header_image: /images/upload/men.png
+    link: /mens
+  - title: Women's health & fitness
+    colour: 59D4E8
+    image: /images/upload/women-positioned.png
+    header_image: /images/upload/women.png
+    link: /womens
+  - title: At home testing kits
+    colour: 59D4E8
+    image: /images/upload/medical-box-positioned.png
+    header_image: /images/upload/test-kit.png
+    link: /testing
     sub_sections: 
-      - title: Medical negligence
-        colour: eaeaea
-        image: /images/upload/medical-negligence.png
-        header_image: /images/upload/medical-negligence-header.png
-        link: /claims/medical-negligence
-      - title: Flight compensation
-        colour: 59a2d9
-        image: /images/upload/flight-comp.png
-        header_image: /images/upload/flight-comp-header.png
-        link: /claims/flight-compensation
-      - title: Personal injury
-        colour: 4dacbe
-        image: /images/upload/personal-injury.png
-        header_image: /images/upload/personal-injury-header.png
-        link: /claims/personal-injury
-      - title: Sipps
-        colour: 23b574
-        image: /images/upload/sipps.png
-        header_image: /images/upload/sipps-header.png
-        link: /claims/sipps
-  - title: Deals
-    colour: ffdbc5
-    image: /images/upload/deals.png
-    header_image: /images/upload/deals-header.png
-    link: /deals
+      - title: Diabetes
+        colour: 59D4E8
+        image: /images/upload/finger.png
+        header_image: /images/upload/finger.png
+        link: /testing/diabetes
+      - title: Bowel cancer
+        colour: 59D4E8
+        image: /images/upload/stomach-positioned.png
+        header_image: /images/upload/stomach.png
+        link: /testing/bowel-cancer
+      - title: Testosterone
+        colour: 59D4E8
+        image: /images/upload/pill-pot-positioned.png
+        header_image: /images/upload/pill-pot.png
+        link: /testing/testosterone
+      - title: More tests coming soon
+        colour: 59D4E8
+        image: /images/upload/plaster-positioned.png
+  - title: More tools coming soon
+    colour: 59D4E8
+    image: /images/upload/containers-positioned.png

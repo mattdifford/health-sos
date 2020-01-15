@@ -2,9 +2,10 @@
 layout: tools
 title: Tools
 reference: Tools
-section: ''
+section: ""
 description: Meta desc
 permalink: /tools
+header_image: /images/upload/plus.png
 header_content: >-
   # Get started now
 
@@ -14,7 +15,7 @@ header_content: >-
   nostrud exercitation ullamco laboris nisi ut
 strip_1:
   image_position: left
-  image: /images/upload/thumbs-up.png
+  image: /images/upload/plaster.png
   text: >-
     ### About moneySOS
 
@@ -26,4 +27,3 @@ strip_1:
 
     [Sign up here](/)
 ---
-

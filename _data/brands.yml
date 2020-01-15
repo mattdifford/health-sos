@@ -1,11 +1,11 @@
 items:
-  - title: Money
-    colour: 00249D
-    image: /images/upload/money-white.png
-    link: https://www.moneysos.co.uk
   - title: Health
     colour: 59D4E8
     image: /images/upload/health.png
+    link: https://www.moneysos.co.uk
+  - title: Money
+    colour: 00249D
+    image: /images/upload/money-white.png
     link: https://www.moneysos.co.uk
   - title: Claims
     colour: fff
