@@ -18,6 +18,9 @@ $button-text: #fff;
 
 /*Header*/
 $header-bg: #fff;
+$header-nav-text: $colour_action;
+$header-sub-nav-bg: $header-bg;
+$header-sub-nav-text: $header-nav-text;
 $header-image-bg: #f7f7f7;
 $header-image-text: $text;
 $header-image-text-accent: $colour_action;
@@ -30,7 +33,6 @@ $header-image-cta-bg: $colour_action;
 $header-image-cta-text: #fff;
 $header-image-cta-tick-bg: $colour_tertiary;
 $header-image-cta-tick: #fff;
-$header-nav-text: $colour_action;
 
 /*Down icon*/
 $down-icon-bg: #fff;
@@ -46,7 +48,7 @@ $strip-text: $text;
 $strip-text-accent: $text;
 $strip-button-bg: $button-bg;
 $strip-button-text: $button-text;
-$strip-circle-bg: rgba(#FFF, 0.27);
+$strip-circle-bg: rgba(#fff, 0.27);
 
 $strip-first-bg: #fff;
 $strip-first-border: $strip-first-bg;
