@@ -15,7 +15,6 @@ $body_font_size: 22px;
 $header_image_title_size: 58px;
 $strip_title_size: $header_image_title_size;
 
-
 /* Specific section colours */
 
 /*General*/
@@ -83,10 +82,14 @@ $strip-bottom-button-text: $strip-alt-button-text;
 $strip-bottom-circle-bg: $strip-alt-circle-bg;
 
 /*Select strip (tools)*/
+$select-strip-bg: #fff;
+$select-strip-border: $select-strip-bg;
 $select-strip-text: $colour_black;
 $select-strip-title-text: $select-strip-text;
 $select-strip-title-text: $select-strip-text;
 $select-strip-title-text-accent: $select-strip-text;
+$select-strip-item-title: #fff;
+$select-strip-item-title-light: $colour_black;
 
 /*Brands strip*/
 $brands-strip-title-text: $colour_black;
@@ -116,13 +119,15 @@ $reviews-strip-nav-text: #fff;
 $reviews-strip-nav-bg-hover: $colour_secondary;
 $reviews-strip-nav-text-hover: $reviews-strip-nav-text;
 $reviews-strip-image-bg: $colour_grey;
+$reviews-strip-button-bg: $button-bg;
+$reviews-strip-button-text: $button-text;
 
 /*Footer*/
 $footer-bg: $colour_tertiary;
 $footer-border-top-bg: $colour_action;
 $footer-accent: #fff;
 $footer-link-text: #fff;
-$footer-link-text-hover: $colour_secondary;
+$footer-link-text-hover: $colour_action;
 
 /*Forms*/
 $form-bg: #fff;
@@ -152,3 +157,11 @@ $modal-text: $colour_black;
 
 /*Buyer panel*/
 $buyer-panel-text: $colour_dark_grey;
+
+/*Process strip*/
+$process-strip-bg: #fff;
+$process-strip-border: $colour_action;
+$process-strip-text: $text;
+$process-strip-image-bg: $colour_action;
+$process-strip-button-bg: $button-bg;
+$process-strip-button-text: $button-text;

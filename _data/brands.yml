@@ -11,11 +11,11 @@ items:
     colour: 110133
     image: /images/upload/quote.png
     link: https://www.moneysos.co.uk
-  - title: Claims
-    colour: fff
-    image: /images/spinner.png
-    link: https://www.moneysos.co.uk
   - title: Home
+    colour: 4fb291
+    image: /images/upload/home.png
+    link: https://www.moneysos.co.uk
+  - title: Claims
     colour: fff
     image: /images/spinner.png
     link: https://www.moneysos.co.uk
