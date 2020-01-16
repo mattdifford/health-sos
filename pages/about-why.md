@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Why choose moneySOS
+title: Why choose healthSOS
 reference: About - Why
 description: Lorem ipsum dolor sit amet
 permalink: /about/why-choose
 strip_1:
   text: >-
-    ### About moneySOS
+    ### About healthSOS
 
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod

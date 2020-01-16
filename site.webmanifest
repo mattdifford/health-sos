@@ -1,6 +1,6 @@
 {
-    "name": "MoneySOS",
-    "short_name": "MoneySOS",
+    "name": "healthSOS",
+    "short_name": "healthSOS",
     "icons": [
         {
             "src": "/android-chrome-144x144.png",

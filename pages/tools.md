@@ -17,7 +17,7 @@ strip_1:
   image_position: left
   image: /images/upload/plaster.png
   text: >-
-    ### About moneySOS
+    ### About healthSOS
 
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
