@@ -1,9 +1,9 @@
 ---
 layout: bottom
 description: Page Description
-title: Diabetes
-section: Diabetes
-permalink: /testing/diabetes
+title: Testosterone
+section: Testosterone
+permalink: /testing/testosterone
 header_content: >- 
     ### Benefits: 
 
@@ -16,10 +16,10 @@ header_content: >-
     * Fusce scelerisque diam vel ligula.
     
 strip_1:
-  image: /images/upload/flight-comp-header.png
+  image: /images/upload/pill-pot.png
   image_position: left
   text: >-
-    ### About Diabetes health kit
+    ### About testosterone health kit
 
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
