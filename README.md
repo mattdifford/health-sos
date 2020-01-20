@@ -1,5 +1,1 @@
-# Boilerplate based on the [Netlify CMS Jekyll Starter](https://github.com/netlify-templates/jekyll-netlify-cms)
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mattdifford/jekyll-netlify-boilerplate&stack=cms)
-
-The instructions for setting up should be the same as on the original repo, I just added in the bits I needed so that I didn't have to do it every time
+[![Netlify Status](https://api.netlify.com/api/v1/badges/57299a03-a46b-4baf-ba6c-dbe574a9ac9d/deploy-status)](https://app.netlify.com/sites/health-sos/deploys)
